@@ -8,12 +8,21 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
     }
-
-
+    
+    
+    @IBAction func monkey(_ sender: Any) {
+    }
+    
+    @IBAction func banana(_ sender: Any) {
+    }
+    
+    @IBAction func fox(_ sender: Any) {
+    }
 }
 
